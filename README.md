@@ -10,7 +10,7 @@
 
 
 ## System Architecture  
-<img src="./Images/System Architecture.PNG" width="700px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/System Architecture.PNG" width="600px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/System Configuration.PNG" width="700px" height="400px" title="img" alt="img"></img><br/>
 
 
@@ -22,4 +22,4 @@
 4. 사용자뿐만 아니라 병원이나 생활 관리사, 보호자는 어플리케이션을 통해 Pill-case Monitoring을 할 수 있다.<br/>
 
 ### Results
-<img src="./Images/Smart Pill Case.jpg" width="400px" height="350px" title="img" alt="img"></img><br/>
+<img src="./Images/Smart Pill Case.jpg" width="200px" height="350px" title="img" alt="img"></img><br/>
