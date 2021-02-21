@@ -22,4 +22,9 @@
 4. 사용자뿐만 아니라 병원이나 생활 관리사, 보호자는 어플리케이션을 통해 Pill-case Monitoring을 할 수 있다.<br/>
 
 ### Results
-<img src="./Images/Smart Pill Case.jpg" width="250px" height="350px" title="img" alt="img"></img><br/>
+<img src="./Images/Smart Pill Case.jpg" width="280px" height="350px" title="img" alt="img"></img><br/>
+
+## 기대효과
+1. 원활한 의약품 복용 관리
+2. 올바른 시간에 의약품 복용 확률 증가
+4. 의약품 복용 환경 개선
