@@ -1,4 +1,3 @@
-# Drug Management Solution
 # 독거 노인 복약 관리 솔루션
  정해진 시간에 약을 복용하도록 도와주는 Smart Pill Case(IoT 제품)와 복용 여부를 실시간으로 확인 할 수 있는 Application으로 구성되어 있다.<br/>
 
